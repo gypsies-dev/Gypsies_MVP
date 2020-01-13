@@ -10,7 +10,7 @@
 		044F1E9C23CBFE1500C9A730 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 044F1E9B23CBFE1500C9A730 /* Main.storyboard */; };
 		044F1E9E23CBFE7D00C9A730 /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 044F1E9D23CBFE7D00C9A730 /* LoginVC.swift */; };
 		044F1EA023CC114600C9A730 /* SignUpVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 044F1E9F23CC114600C9A730 /* SignUpVC.swift */; };
-		04BC364123CBF2D100C58009 /* MessagesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BC364023CBF2D100C58009 /* MessagesViewController.swift */; };
+		04BC364123CBF2D100C58009 /* TalkViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BC364023CBF2D100C58009 /* TalkViewController.swift */; };
 		04BC364323CBF2F900C58009 /* MockMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BC364223CBF2F900C58009 /* MockMessage.swift */; };
 		04BC364723CBF9C600C58009 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 04BC364623CBF9C600C58009 /* GoogleService-Info.plist */; };
 		16BF9009075DB20EF5C1972F /* Pods_Gypsies_MVP_Gypsies_MVPUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EEF05B036C750A1D6FF0130C /* Pods_Gypsies_MVP_Gypsies_MVPUITests.framework */; };
@@ -47,7 +47,7 @@
 		044F1E9B23CBFE1500C9A730 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		044F1E9D23CBFE7D00C9A730 /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
 		044F1E9F23CC114600C9A730 /* SignUpVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpVC.swift; sourceTree = "<group>"; };
-		04BC364023CBF2D100C58009 /* MessagesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessagesViewController.swift; sourceTree = "<group>"; };
+		04BC364023CBF2D100C58009 /* TalkViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TalkViewController.swift; sourceTree = "<group>"; };
 		04BC364223CBF2F900C58009 /* MockMessage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockMessage.swift; sourceTree = "<group>"; };
 		04BC364623CBF9C600C58009 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		5351BDFAD09CC11F0354EF12 /* Pods-Gypsies_MVP-Gypsies_MVPUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Gypsies_MVP-Gypsies_MVPUITests.debug.xcconfig"; path = "Target Support Files/Pods-Gypsies_MVP-Gypsies_MVPUITests/Pods-Gypsies_MVP-Gypsies_MVPUITests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -168,7 +168,7 @@
 				04BC364823CBFD8B00C58009 /* Model */,
 				555FE26123C71C9D0066183F /* SceneDelegate.swift */,
 				555FE26323C71C9D0066183F /* ContentView.swift */,
-				04BC364023CBF2D100C58009 /* MessagesViewController.swift */,
+				04BC364023CBF2D100C58009 /* TalkViewController.swift */,
 				04BC364223CBF2F900C58009 /* MockMessage.swift */,
 				555FE26523C71C9E0066183F /* Assets.xcassets */,
 				555FE26A23C71C9E0066183F /* LaunchScreen.storyboard */,
@@ -464,7 +464,7 @@
 				04BC364323CBF2F900C58009 /* MockMessage.swift in Sources */,
 				044F1E9E23CBFE7D00C9A730 /* LoginVC.swift in Sources */,
 				555FE26223C71C9D0066183F /* SceneDelegate.swift in Sources */,
-				04BC364123CBF2D100C58009 /* MessagesViewController.swift in Sources */,
+				04BC364123CBF2D100C58009 /* TalkViewController.swift in Sources */,
 				555FE26423C71C9D0066183F /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
