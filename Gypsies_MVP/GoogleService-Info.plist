@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>707652002865-nv852e2mp3fs23mum1h4rke5kro043td.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.707652002865-nv852e2mp3fs23mum1h4rke5kro043td</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBQ1AOfX6PHNULGc3ZDQuJhkBucaqdZzcg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>707652002865</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Gypsies.Gypsies-MVP</string>
+	<key>PROJECT_ID</key>
+	<string>gyps-test</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gyps-test.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:707652002865:ios:0546209a9ceeb7e1b4a110</string>
+	<key>DATABASE_URL</key>
+	<string>https://gyps-test.firebaseio.com</string>
+</dict>
+</plist>
